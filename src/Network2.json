@@ -1,0 +1,95 @@
+{
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"region": "US",
+				"data": 90
+			},
+			"geometry": {
+				"coordinates": [
+					-111.53327,
+					45.6235
+				],
+				"type": "Point"
+			},
+			"id": "1"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"region": "US",
+				"data": 390
+			},
+			"geometry": {
+				"coordinates": [
+					-121.58167,
+					50.59936
+				],
+				"type": "Point"
+			},
+			"id": "2"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"region": "AT",
+				"data": 790
+			},
+			"geometry": {
+				"coordinates": [
+					-112.63683,
+					37.65883
+				],
+				"type": "Point"
+			},
+			"id": "3"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"region": "AT",
+				"data": 290
+			},
+			"geometry": {
+				"coordinates": [
+					-111.67852,
+					39.56914
+				],
+				"type": "Point"
+			},
+			"id": "4"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"region": "SE",
+				"data": 590
+			},
+			"geometry": {
+				"coordinates": [
+					-111.15852,
+					56.56914
+				],
+				"type": "Point"
+			},
+			"id": "5"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"region": "SE",
+				"data": 190
+			},
+			"geometry": {
+				"coordinates": [
+					-111.25652,
+					67.56914
+				],
+				"type": "Point"
+			},
+			"id": "6"
+		}
+	],
+	"type": "FeatureCollection"
+}
